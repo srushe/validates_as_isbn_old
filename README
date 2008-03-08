@@ -9,7 +9,7 @@ the newer 13-character version.
 Installation
 ------------
 
-ruby script/plugin install http://svn.deeden.co.uk/validates_as_isbn
+ruby script/plugin install http://svn.deeden.co.uk/validates_as_isbn/trunk
 
 Full documentation on script/plugin can be obtained by invoking the plugin
 script with no arguments:
